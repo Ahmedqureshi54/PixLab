@@ -43,23 +43,10 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 
 
 
-![Malaysian](BblNFPTCEAAvPZL.jpg)  *Input ID card Specimen*
-
-
-
-
-
-
-
-
-
-
+![Malaysian](BblNFPTCEAAvPZL.jpg)
 
 
 ![Implementation](dato.png) *Extracted ID Card Fields*
-
-
-
 
 
 
