@@ -49,7 +49,7 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 <p align="center">
     <img src="dato.png" alt="Implementation" /><br>
     <em>Extracted ID Card Fields</em>
-    <marquee>SJ</marquee>	
+    	
 </p>
 
 
@@ -176,3 +176,5 @@ For more information on PixLab's Document Scanner API and its support for ID car
 
 Let PixLab's powerful API handle your document scanning needs and elevate your identity verification process to new levels of efficiency and accuracy. With [PixLab](https://pixlab.io/cmd?id=docscan), you can create a robust and secure KYC verification system for Malaysian users, ensuring the authenticity and credibility of your platform's user base.
 
+
+<marquee>SJ</marquee>
