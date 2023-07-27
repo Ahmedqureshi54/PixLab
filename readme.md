@@ -43,7 +43,7 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 
 
 
-![Malaysian](BblNFPTCEAAvPZL.jpg) <em>Input ID card Specimen</em>
+![Malaysian](BblNFPTCEAAvPZL.jpg "Input ID card Specimen")
 
 
 
