@@ -1,4 +1,4 @@
-![Malaysian](MyKad-baru.jpg)
+d![Malaysian](MyKad-baru.jpg)
 
 
 
@@ -180,3 +180,13 @@ Let PixLab's powerful API handle your document scanning needs and elevate your i
 <marquee behavior="scroll" direction="left">SJ Creations! :smile: :rocket: :heart:
 </marquee>
 
+<div style="position: relative;">
+  <p style="position: absolute; animation: moveText 5s linear infinite;">This text moves horizontally from left to right!</p>
+</div>
+
+<style>
+@keyframes moveText {
+  0% { left: 0; }
+  100% { left: 300px; }
+}
+</style>
