@@ -180,17 +180,3 @@ Let PixLab's powerful API handle your document scanning needs and elevate your i
 <marquee behavior="scroll" direction="left">SJ Creations! :smile: :rocket: :heart:
 </marquee>
 
-<style>
-        @keyframes moveText {
-            0% { transform: translateX(0); }
-            100% { transform: translateX(300px); }
-        }
-
-        .moving-text {
-            animation: moveText 5s linear infinite;
-        }
-</style>
-
-    <div>
-        <p class="moving-text">This text moves horizontally from left to right!</p>
-    </div>
