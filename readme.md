@@ -48,10 +48,9 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 
 <center>
 
-**Extracted ID Card Fields**
 ![Implementation](dato.png)
 
-*Extracted ID Card Fields*
+<center>*Extracted ID Card Fields*<center>
 
 </center>
 
