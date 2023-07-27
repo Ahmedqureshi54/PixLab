@@ -38,9 +38,9 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 
 
 
-![Malaysian](BblNFPTCEAAvPZL.jpg)<figcaption>Input ID card Specimen</figcaption>
+![Malaysian](BblNFPTCEAAvPZL.jpg) <em>Input ID card Specimen</em>
 
-![Implementation](dato.png)<figcaption>Extracted ID Card Fields</figcaption>
+![Implementation](dato.png)<em>figcaption>Extracted ID Card Fields</em>
 
 
 ## Implementing KYC Verification with PixLab API:<a name="Implement"></a>
