@@ -179,6 +179,4 @@ Let PixLab's powerful API handle your document scanning needs and elevate your i
 
 <marquee behavior="scroll" direction="left">SJ Creations! :smile: :rocket: :heart:
 </marquee>
-<h1>Contact details</h1>
-![Visit GitHub](https://pornhub.com)
 
