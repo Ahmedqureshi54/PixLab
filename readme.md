@@ -24,11 +24,11 @@ In this article, we will explore how to use the **PixLab API** to scan Malaysian
 
 - [Conclusion](#Conclusion)
 
-## Introduction <a name="Introduction"></a>
+## Introduction<a name="Introduction"></a>
 
 Malaysian ID cards play a significant role in establishing identity and citizenship for individuals in Malaysia. MyKAD is the official identification document for citizens, MyKID is for individuals below 12 years old, and the Malaysia Driver License serves as both an ID card and a permit to drive.
 
-## Understanding the Format of Malaysian ID Cards: <a name="Format"></a>
+## Understanding the Format of Malaysian ID Cards:<a name="Format"></a>
 Before we delve into the scanning process, let's briefly understand the format of Malaysian ID cards.
 
 **1. MyKAD:**<a name="MyKAD"></a> The Malaysian National Registration Identity Card (MyKAD) contains essential information such as name, ID number, gender, date of birth, and address. It also includes a photograph of the cardholder.
@@ -37,7 +37,7 @@ Before we delve into the scanning process, let's briefly understand the format o
 
 **3. Malaysia Driver License:**<a name="License"></a> The Malaysian Driver License serves as both an identification document and a permit to drive. It includes the driver's name, ID number, address, date of birth, and a photograph.
 
-## Scanning Malaysian ID Cards with PixLab API: <a name="Scan"></a>
+## Scanning Malaysian ID Cards with PixLab API:<a name="Scan"></a>
 [PixLab's](https://pixlab.io/cmd?id=docscan) Document Scanner API offers a straightforward approach to scan Malaysian ID cards. We will utilize the PixLab API's /docscan/idcard endpoint to scan the provided images of MyKAD, MyKID, and Malaysia Driver License. For each image, we will showcase the API's scan results, including the extracted information.
 
 The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerful solution for developers to integrate document scanning capabilities into their web applications or platforms. By leveraging advanced computer vision and machine learning algorithms, PixLab can accurately extract relevant information from scanned ID cards and passports, streamlining the KYC process for seamless identity verification.
@@ -55,10 +55,10 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 </p>
 
 
-## Implementing KYC Verification with PixLab API: <a name="Implement"></a>
+## Implementing KYC Verification with PixLab API:<a name="Implement"></a>
 Now, let's dive into the code samples provided by PixLab on their GitHub repository to scan Malaysian ID cards using  [Python](https://github.com/symisc/pixlab/blob/master/python/id_card_scan.py) and [PHP]( https://github.com/symisc/pixlab/blob/master/PHP/id_card_scan.php). These code samples demonstrate how to make API requests, handle responses, and extract information from the scanned documents.
 
-### Python code: <a name="Python"></a>
+### Python code:<a name="Python"></a>
 To access the Python code sample, please follow this link: https://github.com/symisc/pixlab/tree/master/python
 ```
 import requests
@@ -115,7 +115,7 @@ else:
 
 ```
 
-### PHP Code <a name="PHP"></a>
+### PHP Code<a name="PHP"></a>
 To access the PHP code sample, please follow this link: https://github.com/symisc/pixlab/tree/master/PHP
 
 ```
@@ -171,7 +171,7 @@ if( isset($pix->json->fields->nationality) )   echo  "Nationality: ".$pix->json-
 
 ```
 
-## Conclusion: <a name="Conclusion"></a>
+## Conclusion:<a name="Conclusion"></a>
 Scanning Malaysian ID cards, such as **MyKAD**, **MyKID**, and **Malaysia Driver License**, using the [**PixLab API**](https://pixlab.io/cmd?id=docscan) simplifies the KYC verification process for Malaysian users. The API provides reliable and accurate information extraction, streamlining the identity verification workflow for web applications and platforms.
 
 By incorporating the PixLab Document Scanner API into your KYC process, you can enhance the user experience, ensure compliance, and verify the authenticity of **Malaysian ID cards** efficiently. The PixLab API's powerful features, combined with the provided code samples, make it easier for developers to integrate document scanning capabilities seamlessly into their applications.
