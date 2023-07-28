@@ -47,7 +47,6 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
     <em>Input ID card Specimen</em>
     	
 </p>
-![Malaysian]()
 
 
 <p align="center">
@@ -140,7 +139,8 @@ require_once "pixlab.php";
 #
 # https://pixlab.io/cmd?id=docscan for additional information.
 
-$idcard_link = 'https://buletinonline.net/v7/wp-content/uploads/2016/06/Mykad-penghuni-puan-Noraini-2.jpg'; /* ID card prototype: Of course, replace with a real government issued id. */
+$idcard_link = 'https://buletinonline.net/v7/wp-content/uploads/2016/06/Mykad-penghuni-puan-Noraini-2.jpg';
+/* ID card prototype: Of course, replace with a real government issued id. */
 $key = 'PIXLAB_API_KEY'; # Your PixLab API key that you can fetch from https://pixlab.io/dsahboard
 /* Process */
 $pix = new Pixlab($key);
