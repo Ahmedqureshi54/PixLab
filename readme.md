@@ -2,7 +2,7 @@
     <img src="MyKad-baru.jpg" alt="MyKad" /><br>
 </p>
 
-
+# Scanning Malaysian ID Cards with PixLab API: A Comprehensive Guide
 
 In this article, we will explore how to use the **PixLab API** to scan Malaysian ID cards, including **MyKAD**, **MyKID**, and **Malaysia Driver License**. The PixLab Document Scanner API provides an efficient and accurate solution for implementing a minimal yet functional KYC (Know Your Customer) form and identity verification for Malaysian users.
 
