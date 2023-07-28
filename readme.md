@@ -9,7 +9,7 @@ In this article, we will explore how to use the **PixLab API** to scan Malaysian
 ## Table of Contents
 
 - [Introduction](#Introduction) 
-- [Understanding the Format of Malaysian ID Cards](#Format)
+- [Understanding the Format of Malaysian ID Cards:](#Format)
 
 1. [MyKAD](#MyKAD)
 2. [MyKID](#MyKID)
@@ -17,7 +17,7 @@ In this article, we will explore how to use the **PixLab API** to scan Malaysian
 
 - [Scanning Malaysian ID Cards with PixLab API](#Scan)
 
-- [Implementing KYC Verification with PixLab API](#Implement)
+- [Implementing KYC Verification with PixLab API:](#Implement)
 
 1. [Python code](#Python)
 2. [PHP Code](#PHP)
@@ -28,7 +28,7 @@ In this article, we will explore how to use the **PixLab API** to scan Malaysian
 
 Malaysian ID cards play a significant role in establishing identity and citizenship for individuals in Malaysia. MyKAD is the official identification document for citizens, MyKID is for individuals below 12 years old, and the Malaysia Driver License serves as both an ID card and a permit to drive.
 
-## Understanding the Format of Malaysian ID Cards<a name="Format"></a>
+## Understanding the Format of Malaysian ID Cards:<a name="Format"></a>
 Before we delve into the scanning process, let's briefly understand the format of Malaysian ID cards.
 
 **1. MyKAD:**<a name="MyKAD"></a> The Malaysian National Registration Identity Card (MyKAD) contains essential information such as name, ID number, gender, date of birth, and address. It also includes a photograph of the cardholder.
@@ -55,7 +55,7 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 </p>
 
 
-## Implementing KYC Verification with PixLab API<a name="Implement"></a>
+## Implementing KYC Verification with PixLab API:<a name="Implement"></a>
 Now, let's dive into the code samples provided by PixLab on their GitHub repository to scan Malaysian ID cards using  [Python](https://github.com/symisc/pixlab/blob/master/python/id_card_scan.py) and [PHP]( https://github.com/symisc/pixlab/blob/master/PHP/id_card_scan.php). These code samples demonstrate how to make API requests, handle responses, and extract information from the scanned documents.
 
 ### Python code<a name="Python"></a>
