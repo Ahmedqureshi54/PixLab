@@ -42,8 +42,12 @@ Before we delve into the scanning process, let's briefly understand the format o
 The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerful solution for developers to integrate document scanning capabilities into their web applications or platforms. By leveraging advanced computer vision and machine learning algorithms, PixLab can accurately extract relevant information from scanned ID cards and passports, streamlining the KYC process for seamless identity verification.
 
 
-
-![Malaysian](BblNFPTCEAAvPZL.jpg)
+<p align="center">
+    <img src="BblNFPTCEAAvPZL.jpg" alt=" Specimen" /><br>
+    <em>Input ID card Specimen</em>
+    	
+</p>
+![Malaysian]()
 
 
 <p align="center">
