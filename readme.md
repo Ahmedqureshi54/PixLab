@@ -37,7 +37,7 @@ Before we delve into the scanning process, let's briefly understand the format o
 
 **3. Malaysia Driver License:**<a name="License"></a> The Malaysian Driver License serves as both an identification document and a permit to drive. It includes the driver's name, ID number, address, date of birth, and a photograph.
 
-## Scanning Malaysian ID Cards with PixLab API:<a name="Scan"></a>
+## Scanning Malaysian ID Cards with PixLab API<a name="Scan"></a>
 [PixLab's](https://pixlab.io/cmd?id=docscan) Document Scanner API offers a straightforward approach to scan Malaysian ID cards. We will utilize the PixLab API's /docscan/idcard endpoint to scan the provided images of MyKAD, MyKID, and Malaysia Driver License. For each image, we will showcase the API's scan results, including the extracted information.
 
 The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerful solution for developers to integrate document scanning capabilities into their web applications or platforms. By leveraging advanced computer vision and machine learning algorithms, PixLab can accurately extract relevant information from scanned ID cards and passports, streamlining the KYC process for seamless identity verification.
@@ -55,10 +55,10 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 </p>
 
 
-## Implementing KYC Verification with PixLab API:<a name="Implement"></a>
+## Implementing KYC Verification with PixLab API<a name="Implement"></a>
 Now, let's dive into the code samples provided by PixLab on their GitHub repository to scan Malaysian ID cards using  [Python](https://github.com/symisc/pixlab/blob/master/python/id_card_scan.py) and [PHP]( https://github.com/symisc/pixlab/blob/master/PHP/id_card_scan.php). These code samples demonstrate how to make API requests, handle responses, and extract information from the scanned documents.
 
-### Python code:<a name="Python"></a>
+### Python code<a name="Python"></a>
 To access the Python code sample, please follow this link: https://github.com/symisc/pixlab/tree/master/python
 ```
 import requests
