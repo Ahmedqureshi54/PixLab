@@ -24,7 +24,7 @@ In this article, we will explore how to use the **PixLab API** to scan Malaysian
 
 - [Conclusion](#Conclusion)
 
-## Introduction<a name="Introduction"></a>
+## Introduction <a name="Introduction"></a>
 
 Malaysian ID cards play a significant role in establishing identity and citizenship for individuals in Malaysia. MyKAD is the official identification document for citizens, MyKID is for individuals below 12 years old, and the Malaysia Driver License serves as both an ID card and a permit to drive.
 
@@ -55,7 +55,7 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 </p>
 
 
-## Implementing KYC Verification with PixLab API:<a name="Implement"></a>
+## Implementing KYC Verification with PixLab API: <a name="Implement"></a>
 Now, let's dive into the code samples provided by PixLab on their GitHub repository to scan Malaysian ID cards using  [Python](https://github.com/symisc/pixlab/blob/master/python/id_card_scan.py) and [PHP]( https://github.com/symisc/pixlab/blob/master/PHP/id_card_scan.php). These code samples demonstrate how to make API requests, handle responses, and extract information from the scanned documents.
 
 ### Python code: <a name="Python"></a>
