@@ -1,5 +1,6 @@
-![Malaysian](MyKad-baru.jpg)
-
+<p align="center">
+    <img src="MyKad-baru.jpg" alt="MyKad" /><br>
+</p>
 
 
 
@@ -44,15 +45,13 @@ The [PixLab API](https://pixlab.io/cmd?id=docscan) provides a simple yet powerfu
 
 <p align="center">
     <img src="BblNFPTCEAAvPZL.jpg" alt=" Specimen" /><br>
-    <em>Input ID card Specimen</em>
-    	
+    <em>Input ID card Specimen</em>	
 </p>
 
 
 <p align="center">
     <img src="dato.png" alt="Implementation" /><br>
     <em>Extracted ID Card Fields</em>
-    	
 </p>
 
 
@@ -131,7 +130,8 @@ To access the PHP code sample, please follow this link: https://github.com/symis
  * https://github.com/symisc/pixlab-php 
  */
 require_once "pixlab.php";
-# Given a government issued ID card from Malaysia, UAE, India, US Driver, Singapore, etc., extract the user face and parse all fields.
+# Given a government issued ID card from Malaysia, UAE, India, US Driver, Singapore, etc.,
+# extract the user face and parse all fields.
 #
 # PixLab recommend that you connect your AWS S3 bucket via your dashboard at https://pixlab.io/dashboard
 # so that any cropped face or MRZ crop is stored automatically on your S3 bucket rather than the PixLab one.
@@ -179,8 +179,3 @@ By incorporating the PixLab Document Scanner API into your KYC process, you can 
 For more information on PixLab's Document Scanner API and its support for ID cards and passports, refer to their official blog post: https://blog.pixlab.io/2019/11/docscan-api-endpoint-support-id-cards-passports
 
 Let PixLab's powerful API handle your document scanning needs and elevate your identity verification process to new levels of efficiency and accuracy. With [PixLab](https://pixlab.io/cmd?id=docscan), you can create a robust and secure KYC verification system for Malaysian users, ensuring the authenticity and credibility of your platform's user base.
-
-
-<marquee behavior="scroll" direction="left">SJ Creations! :smile: :rocket: :heart:
-</marquee>
-
