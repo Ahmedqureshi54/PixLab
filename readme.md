@@ -60,7 +60,7 @@ Now, let's dive into the code samples provided by PixLab on their GitHub reposit
 
 ### Python code<a name="Python"></a>
 To access the Python code sample, please follow this link: https://github.com/symisc/pixlab/tree/master/python
-```
+```python
 import requests
 import json
 
@@ -118,7 +118,7 @@ else:
 ### PHP Code<a name="PHP"></a>
 To access the PHP code sample, please follow this link: https://github.com/symisc/pixlab/tree/master/PHP
 
-```
+```php
 <?php
 /*
  * Usage sample of the ID card scanner from PixLab. In this sample, we shall scan
